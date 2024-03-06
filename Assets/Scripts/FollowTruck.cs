@@ -5,7 +5,7 @@ using UnityEngine;
 public class FollowTruck : MonoBehaviour
 {
     public GameObject player;
-    private Vector3 offset = new Vector3(0, 2, -15)
+    private Vector3 offset = new Vector3(0, 2, -15);
 
     // Start is called before the first frame update
     void Start()
